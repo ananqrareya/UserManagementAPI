@@ -57,12 +57,14 @@ Utilize the following endpoints to interact with the API:
 
 ## Configuration
 Configuration settings are located in `src/main/resources/application.properties`. Modify these to change database connections, email server settings for notifications, and configure security aspects.
-
  
 
+---
+
 ## Contact
- Email : ananqrareya@gmail.com
- LinkedIn : anan-qrareya 
+- **Email**: [ananqrareya@gmail.com](mailto:ananqrareya@gmail.com)
+- **LinkedIn**: [Anan Qrareya](https://www.linkedin.com/in/anan-qrareya-31213a283/)
+ 
  
 
 ---
